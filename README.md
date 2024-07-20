@@ -8,8 +8,8 @@ To get started with this project, you will need to have [Node.js](https://nodejs
 
 1. Clone this repository to your local machine.
 2. Install the project dependencies by running `npm install`.
-3. Start the development server by running `npx serve .`.
-4. Open your web browser and navigate to [http://localhost:5000](http://localhost:5000) to view the project.
+3. Start the development server by running `npm run dev`.
+4. Open your web browser and navigate to [localhost:1234](http://localhost:1234) to view the project.
 
 ## Technologies Used
 
